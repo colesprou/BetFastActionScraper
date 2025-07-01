@@ -1,0 +1,4 @@
+__pycache__/
+script_output.txt
+mlb_player_props.csv
+.env
